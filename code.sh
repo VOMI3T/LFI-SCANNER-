@@ -24,9 +24,9 @@ echo -e ${CP}"   | |___|  _|  | |     ___) | |___ / ___ \| |\  | |\  | |___|  _ 
 echo -e ${CP}"   |_____|_|   |___|___|____/ \____/_/   \_\_| \_|_| \_|_____|_| \_\          #"        
 echo -e  ${CP}"                  |_____|                                                     #"
 echo -e ${BLUE}"                 A FrameWork For Scanning Local File Inclusion                #"
-echo -e ${YELLOW}"                       Coded By: Machine404                                   #"
-echo -e ${CPO}"                   https://github.com/machine1337                             #"  
-echo -e ${CNC}"                   https://facebook.com/unknownclay                           #"
+echo -e ${YELLOW}"                       Coded By:sergioislit                                   #"
+echo -e ${CPO}"     Instagram: sergio_islit                                                   #"  
+echo -e ${CNC}"                                                                              #"
 echo -e ${RED}"###############################################################################"
 }
 sleep 1
