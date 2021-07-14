@@ -1,4 +1,4 @@
-# LFI-SCANNER-
+# LFI-SCANNER
 LFI scanner made by sergio
 https://www.Instagram.com/sergio_islit
 
@@ -15,7 +15,7 @@ THIS WAS MADE FOR EDUCATIONAL PURPOSES
     1. git clone https://github.com/sergioislit/LFI-SCANNER
    
    
-  2. cd LFISCANNER 
+  2. cd LFI-SCANNER 
   
   
   
