@@ -16,7 +16,7 @@ CN='\033[1;38;5;247m'
 CNC='\033[1;38;5;051m'
 
 function banner(){
-echo -e ${GREEN}"##############################################################################"
+echo -e ${RED}"##############################################################################"
 echo -e ${CP}"    _     _____ ___     ____   ____    _    _   _ _   _ _____ ____            #"             
 echo -e ${CP}"   | |   |  ___|_ _|   / ___| / ___|  / \  | \ | | \ | | ____|    \           #"                                 
 echo -e ${CP}"   | |   | |_   | |    \___ \| |     / _ \ |  \| |  \| |  _| | |_) |          #"
@@ -24,10 +24,10 @@ echo -e ${CP}"   | |___|  _|  | |     ___) | |___ / ___ \| |\  | |\  | |___|  _ 
 echo -e ${CP}"   |_____|_|   |___|___|____/ \____/_/   \_\_| \_|_| \_|_____|_| \_\          #"        
 echo -e  ${CP}"                  |_____|                                                     #"
 echo -e ${BLUE}"                 A FrameWork For Scanning Local File Inclusion                #"
-echo -e ${YELLOW}"                       Coded By: Sergio                                   #"
-echo -e ${CPO}"                   https://github.com/sergioislit                             #"  
-echo -e ${CNC}"                   https://Instagram.com/sergio_islit                           #"
-echo -e ${GREEN}"###############################################################################"
+echo -e ${YELLOW}"                       Coded By: Machine404                                   #"
+echo -e ${CPO}"                   https://github.com/machine1337                             #"  
+echo -e ${CNC}"                   https://facebook.com/unknownclay                           #"
+echo -e ${RED}"###############################################################################"
 }
 sleep 1
 echo -e ${CP}"[+] Checking Internet Connectivity"
