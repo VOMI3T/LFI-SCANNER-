@@ -12,8 +12,8 @@ THIS WAS MADE FOR EDUCATIONAL PURPOSES
 
 
 # Installation:
-    1. git clone https://github.com/sergioislit/LFI-SCANNER
-    2. cd LFI-SCANNER 
+    1. git clone https://github.com/sergioislit/LFI-SCANNER-
+    2. cd LFI-SCANNER- 
     3. chmod +x run.sh
 
 
